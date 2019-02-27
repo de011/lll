@@ -16,3 +16,7 @@ https://www.onlinetutorialspoint.com/spring-boot/spring-boot-validation-login-fo
 
 https://www.onlinetutorialspoint.com/spring/spring-mvc-login-form-example.html
 
+
+https://www.javaguides.net/2018/10/user-registration-module-using-springboot-springmvc-springsecurity-hibernate5-thymeleaf-mysql.html
+
+https://hellokoding.com/registration-and-login-example-with-spring-xml-configuration-maven-jsp-and-mysql/
