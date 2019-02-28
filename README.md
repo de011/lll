@@ -20,3 +20,15 @@ https://www.onlinetutorialspoint.com/spring/spring-mvc-login-form-example.html
 https://www.javaguides.net/2018/10/user-registration-module-using-springboot-springmvc-springsecurity-hibernate5-thymeleaf-mysql.html
 
 https://hellokoding.com/registration-and-login-example-with-spring-xml-configuration-maven-jsp-and-mysql/
+
+
+https://github.com/hellokoding/registration-login-spring-xml-maven-jsp-mysqlhttps://github.com/hellokoding/registration-login-spring-xml-maven-jsp-mysql
+
+
+https://shujatweb.wordpress.com/2018/07/12/spring-mvc-registration-login-example-using-hibernate-mysql-bootstrap-4/
+
+
+
+http://java.candidjava.com/tutorial/spring-hibernate-integration.htm
+
+{Do this example}
